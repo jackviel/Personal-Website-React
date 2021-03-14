@@ -1,23 +1,24 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import GithubImage from './img/github.png';
+import LinkedInImage from './img/linkedin.png';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+        <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Roboto+Mono"></link>
+        <div className="background"></div>
+        <div className="content">
+          <div className="text">
+              <h1>Jackviel</h1>
+              <h2>Sophomore Computer Science Student at UCF</h2>
+          </div>
+          <div className="links">
+          <li><a href='https://github.com/jackviel' target="_blank" rel="noopener noreferrer"><img className="github" src={GithubImage}/></a></li>
+          <li><a href='https://www.linkedin.com/in/jackviel-silvagnoli-62365a95/' target="_blank" rel="noopener noreferrer"><img className="linkedin" src={LinkedInImage}/></a></li>
+          </div>
+        </div>
     </div>
   );
 }
