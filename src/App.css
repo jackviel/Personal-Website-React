@@ -29,7 +29,7 @@
 }
 
 .text {
-  padding-top: 4%;
+  padding-top: 8%;
   text-align: center;
   color: rgb(29, 29, 29);
   top: 0;
@@ -47,7 +47,7 @@ h2 {
 }
 
 .links {
-  margin-top: 13%;
+  margin-top: 8%;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
