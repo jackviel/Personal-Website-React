@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/personal-website-react/static/css/main.cc997b6a.chunk.css",
-    "main.js": "/personal-website-react/static/js/main.b3762b91.chunk.js",
-    "main.js.map": "/personal-website-react/static/js/main.b3762b91.chunk.js.map",
-    "runtime-main.js": "/personal-website-react/static/js/runtime-main.5d811417.js",
-    "runtime-main.js.map": "/personal-website-react/static/js/runtime-main.5d811417.js.map",
-    "static/js/2.a7e59c66.chunk.js": "/personal-website-react/static/js/2.a7e59c66.chunk.js",
-    "static/js/2.a7e59c66.chunk.js.map": "/personal-website-react/static/js/2.a7e59c66.chunk.js.map",
-    "index.html": "/personal-website-react/index.html",
-    "static/css/main.cc997b6a.chunk.css.map": "/personal-website-react/static/css/main.cc997b6a.chunk.css.map",
-    "static/js/2.a7e59c66.chunk.js.LICENSE.txt": "/personal-website-react/static/js/2.a7e59c66.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/personal-website-react/static/media/background.257cd3c9.webp",
-    "static/media/github.a3b53714.png": "/personal-website-react/static/media/github.a3b53714.png",
-    "static/media/linkedin.45015d67.png": "/personal-website-react/static/media/linkedin.45015d67.png"
+    "main.css": "/static/css/main.305b15da.chunk.css",
+    "main.js": "/static/js/main.b3762b91.chunk.js",
+    "main.js.map": "/static/js/main.b3762b91.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.758534ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.758534ee.js.map",
+    "static/js/2.a7e59c66.chunk.js": "/static/js/2.a7e59c66.chunk.js",
+    "static/js/2.a7e59c66.chunk.js.map": "/static/js/2.a7e59c66.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.305b15da.chunk.css.map": "/static/css/main.305b15da.chunk.css.map",
+    "static/js/2.a7e59c66.chunk.js.LICENSE.txt": "/static/js/2.a7e59c66.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/background.257cd3c9.webp",
+    "static/media/github.a3b53714.png": "/static/media/github.a3b53714.png",
+    "static/media/linkedin.45015d67.png": "/static/media/linkedin.45015d67.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d811417.js",
+    "static/js/runtime-main.758534ee.js",
     "static/js/2.a7e59c66.chunk.js",
-    "static/css/main.cc997b6a.chunk.css",
+    "static/css/main.305b15da.chunk.css",
     "static/js/main.b3762b91.chunk.js"
   ]
 }
