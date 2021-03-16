@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.305b15da.chunk.css",
-    "main.js": "/static/js/main.b3762b91.chunk.js",
-    "main.js.map": "/static/js/main.b3762b91.chunk.js.map",
+    "main.css": "/static/css/main.7d32183c.chunk.css",
+    "main.js": "/static/js/main.5ff049ba.chunk.js",
+    "main.js.map": "/static/js/main.5ff049ba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.758534ee.js",
     "runtime-main.js.map": "/static/js/runtime-main.758534ee.js.map",
     "static/js/2.a7e59c66.chunk.js": "/static/js/2.a7e59c66.chunk.js",
     "static/js/2.a7e59c66.chunk.js.map": "/static/js/2.a7e59c66.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.305b15da.chunk.css.map": "/static/css/main.305b15da.chunk.css.map",
+    "static/css/main.7d32183c.chunk.css.map": "/static/css/main.7d32183c.chunk.css.map",
     "static/js/2.a7e59c66.chunk.js.LICENSE.txt": "/static/js/2.a7e59c66.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/background.257cd3c9.webp",
     "static/media/github.a3b53714.png": "/static/media/github.a3b53714.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.758534ee.js",
     "static/js/2.a7e59c66.chunk.js",
-    "static/css/main.305b15da.chunk.css",
-    "static/js/main.b3762b91.chunk.js"
+    "static/css/main.7d32183c.chunk.css",
+    "static/js/main.5ff049ba.chunk.js"
   ]
 }
