@@ -1,1 +1,1 @@
-Personal website made with react.js, hosted at [jackviel.com](jackviel.com)
+Personal website made with react.js, hosted at [jackviel.com](https://jackviel.com/)
