@@ -1,3 +1,3 @@
 # Personal website
 
-Made with react.js and hosted at [jackviel.com](https://jackviel.com/) :)
+Made with React.js and hosted at [jackviel.com](https://jackviel.com/) :)
