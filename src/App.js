@@ -12,7 +12,7 @@ function App() {
         <div className="content">
           <div className="text">
               <h1>Jackviel</h1>
-              <h2>Sophomore Computer Science Student at UCF</h2>
+              <h2>Computer Science Student at UCF</h2>
           </div>
           <div className="links">
           <li><a href='https://github.com/jackviel' target="_blank" rel="noopener noreferrer"><img className="github" src={GithubImage}/></a></li>
